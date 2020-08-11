@@ -11,5 +11,10 @@ export default {
 </script>
 
 <style>
-
+  html {
+    height: 100%;
+  }
+  body {
+    background: url(./assets/bg-10.jpg) no-repeat center;
+}
 </style>
